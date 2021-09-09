@@ -1,2 +1,2 @@
 # javascript-working-clock
-javascript working clock my version
+javascript working clock in indonesian
