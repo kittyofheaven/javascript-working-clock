@@ -25,3 +25,6 @@ u can add this script to ur web & bring the javascript files to ur folder
 </body>
 ```
 u can add some css & other script to stylize it and match to ur website
+
+## Contribute ?
+can someone help me to simplifize this script, bcs i think its too long for a clock script
